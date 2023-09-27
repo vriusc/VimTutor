@@ -1,4 +1,4 @@
-# VimTutor1
+# VimTutor
 
 [VimTutor-note][note] | [Vim on git][vim] | [Vim-galore][galore] | [Vim][vimorg] | [SpaceVim][SpaceVim] | [Hack SpaceVim][hackspvim]
 
